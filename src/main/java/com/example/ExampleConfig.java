@@ -14,6 +14,7 @@ public interface ExampleConfig extends Config
 	)
 	default String greeting()
 	{
-		return "Hello";
+		return "yoooooooooo";
 	}
+	default String sus() {return "You are susus";}
 }
